@@ -12,20 +12,21 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong f
 ## 🛠️ Skills
 ### Front-end
 - **HTML5**, **CSS3**, **JavaScript**
-- **React**, **Vue.js**, **Angular**
+- **React**, **Next.js** **Vue.js**, **Nuxt.js**
 - **Tailwind CSS**, **Bootstrap**, **Material UI**
 - **Web Performance Optimization**
 
 ### Back-end
 - **Node.js**, **Express**
 - **Python**, **Django**
+- **PHP**, **Laravel**
 - **GraphQL**, **RESTful APIs**
 - **Databases**: MongoDB, MySQL, PostgreSQL
 
 ### Tools & Platforms
 - **Version Control**: Git, GitHub, GitLab
-- **CI/CD**: Jenkins, Travis CI, GitHub Actions
-- **Deployment**: AWS, Heroku, Netlify
+- **CI/CD**: GitLab CI/CD, GitHub Actions
+- **Deployment**: Vercel, Heroku, Netlify
 - **Containerization**: Docker
 
 ## 📈 GitHub Stats
@@ -34,6 +35,8 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong f
 ## 💬 Let's Connect
 - 💼 LinkedIn: [https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/](https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/)
 - 🌐 Portfolio: [https://yodra-dev.vercel.app/](https://yodra-dev.vercel.app/)
+- 🚀 Dribbble: [https://dribbble.com/yodra](https://dribbble.com/yodra)
+- 📖 Medium: [https://yodra-muhamad.medium.com/](https://yodra-muhamad.medium.com/)
 
 Feel free to browse my repositories and don't hesitate to reach out!
 
