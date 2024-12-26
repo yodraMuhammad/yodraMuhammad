@@ -32,8 +32,13 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong f
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yodraMuhammad&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 💬 Let's Connect
-- 💼 LinkedIn: [LinkedIn] [https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/](https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/](https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/)
 - 🌐 Portfolio: [https://yodra-dev.vercel.app/](https://yodra-dev.vercel.app/)
+- ## 💬 Let's Connect
+- ![GitHub](https://upload.wikimedia.org/wikipedia/commons/a/a7/GitHub_Logo_2018.svg) [GitHub](https://github.com/yourusername)
+- ![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg) [LinkedIn](https://www.linkedin.com/in/yourusername)
+- ![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg) [Twitter](https://twitter.com/yourusername)
+- ![Instagram](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2022.svg) [Instagram](https://www.instagram.com/yourusername)
 
 Feel free to browse my repositories and don't hesitate to reach out!
 
