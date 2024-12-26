@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong f
 
 ## 💬 Let's Connect
 - 💼 LinkedIn: [https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/](https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/)
-- 🌐 Portfolio: [[https://yodra-dev.vercel.app/]([https://yourwebsite.com](https://yodra-dev.vercel.app/))
+- 🌐 Portfolio: [https://yodra-dev.vercel.app/]((https://yodra-dev.vercel.app/)
 
 Feel free to browse my repositories and don't hesitate to reach out!
 
