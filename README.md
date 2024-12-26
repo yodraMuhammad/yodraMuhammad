@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong f
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yodraMuhammad&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 💬 Let's Connect
-- 💼 LinkedIn: [https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/](https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/)
+- 💼 LinkedIn: [LinkedIn] [https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/](https://www.linkedin.com/in/yodra-muhamad-akbar-837a85134/)
 - 🌐 Portfolio: [https://yodra-dev.vercel.app/](https://yodra-dev.vercel.app/)
 
 Feel free to browse my repositories and don't hesitate to reach out!
