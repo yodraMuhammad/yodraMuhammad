@@ -1,10 +1,10 @@
 # Hi, I'm Yodra Muhamad Akbar N 👨‍💻
 
-Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong foundation in **front-end** and **back-end** development. I love building web applications that are fast, scalable, and user-friendly.
+Welcome to my GitHub profile! I'm a passionate **Web Developer** with a strong foundation in **front-end/Mobile** and **back-end** development. I love building web applications that are fast, scalable, and user-friendly.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my skills in **React**, **Node.js**, and **GraphQL**.
-- 🌱 I’m learning more about **serverless architecture** and **API design**.
+- 🌱 I’m learning more about **Go** especially **Fiber** framework.
 - 💻 I enjoy solving complex problems and building intuitive user interfaces.
 - 🛠️ Always exploring new web technologies and frameworks to stay ahead of the curve.
 - 📫 You can reach me at: [yodra.muhamad@gmail.com](mailto:yodra.muhamad@gmail.com).
